@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[仿京东AddressSelector]]></title>
+    <url>%2F2018%2F06%2F28%2F%E4%BB%BF%E4%BA%AC%E4%B8%9CAddressSelector%2F</url>
+    <content type="text"><![CDATA[LevelSelector仿京东地址选择器，每级数据由后台获取。 最近由于项目改造，需要制作一个类似于京东的收货地址选择器的自定义控件。具体的控件截图如下： 从网上搜了下，基本都是固定取本地数据的。但是由于项目需求， 每级的数据都希望从后台获取，并且有相应的级联关系，所以选择自己进行改造。 关键词：仿京东地址选择器 , 数据实时获取]]></content>
+      <tags>
+        <tag>Android Views -android -views</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2018%2F06%2F25%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[LevelSelector仿京东地址选择器，每级数据由后台获取。 最近由于项目改造，需要制作一个类似于京东的收货地址选择器的自定义控件。具体的控件截图如下： 从网上搜了下，基本都是固定取本地数据的。但是由于项目需求，每级的数据都希望从后台获取，并且有相应的级联关系，所以选择自己进行改造。 关键词：仿京东地址选择器 , 数据实时获取]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[测试]]></title>
+    <url>%2F2018%2F06%2F25%2F%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[http://localhost:4000/]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F06%2F25%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Starthahahhaha1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
