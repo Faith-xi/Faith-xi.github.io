@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Java 编程思想笔记]]></title>
+    <url>%2F2018%2F06%2F29%2FJava-%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AC%94%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[Java编程思想笔记系列Java进阶系列 12345678910111213141516171819public class UninterceptableListView extends ListView &#123; public UninterceptableListView(Context context) &#123; super(context); &#125; public UninterceptableListView(Context context, AttributeSet attrs) &#123; super(context, attrs); &#125; public UninterceptableListView(Context context, AttributeSet attrs, int defStyleAttr) &#123; super(context, attrs, defStyleAttr); &#125; @Override public boolean onTouchEvent(MotionEvent ev) &#123; getParent().requestDisallowInterceptTouchEvent(true); return super.onTouchEvent(ev); &#125;&#125;]]></content>
+      <tags>
+        <tag>TIJ</tag>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Android性能优化尝试]]></title>
+    <url>%2F2018%2F06%2F29%2FAndroid%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%B0%9D%E8%AF%95%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[仿京东AddressSelector 地址选择器]]></title>
+    <url>%2F2018%2F06%2F28%2F%E4%BB%BF%E4%BA%AC%E4%B8%9CAddressSelector%2F</url>
+    <content type="text"><![CDATA[AddressSelector仿京东地址选择器，每级数据由后台获取。 最近由于项目改造，需要制作一个类似于京东的收货地址选择器的自定义控件。具体的控件截图如下： 从网上搜了下，基本都是固定取本地数据的。但是由于项目需求， 每级的数据都希望从后台获取，并且有相应的级联关系，所以选择自己进行改造。 关键词：仿京东地址选择器 , 数据实时获取]]></content>
+      <categories>
+        <category>技术博客</category>
+      </categories>
+      <tags>
+        <tag>Android</tag>
+        <tag>Views</tag>
+        <tag>AddressSelector</tag>
+      </tags>
+  </entry>
+</search>
